@@ -1,0 +1,16 @@
+.form-signin {
+  min-width: 30vw;
+}
+.signin {
+  .title {
+    margin: 20px 0;
+    font-size: 20px;
+    font-weight: 200;
+  }
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}

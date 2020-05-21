@@ -1,0 +1,23 @@
+.cart-item{
+    display: flex;
+    margin-top: 20px;
+    
+}
+img{
+    width: 30%;
+    margin-right: 20px;
+}
+.item-details{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+   
+    flex-direction: column;
+}
+.del{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-left: -20px;
+}
